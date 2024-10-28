@@ -18,13 +18,10 @@ export const Home = () => {
 
 	return(
 	<div className="text-center mt-5">
-		<h1>Hello Rigo!</h1>
+		<h1>Mis Contactos!</h1>
 		<p>
-			<img src={rigoImage} />
-		</p>
-		<a href="#" className="btn btn-success">
-			If you see this green button, bootstrap is working
-		</a>
+				<img src="https://img.freepik.com/vector-gratis/icono-suministros-escolares-bloc-notas_24877-83689.jpg?semt=ais_hybrid" alt="Icono de suministros escolares" />
+			</p>
 	</div>
 );
 
